@@ -1,0 +1,10 @@
+ErrorDocument 401 http://localhost/shoponline/error
+
+ErrorDocument 403 http://localhost/shoponline/error
+
+ErrorDocument 404 http://localhost/shoponline/error
+
+ErrorDocument 500 http://localhost/shoponline/error
+
+RewriteEngine On
+RewriteRule error index.php?controller=error&action=index [L]
