@@ -6,8 +6,6 @@ class DatabaseModel
     private $dbUser = 'root';
     private $dbPass = '';
     private $dbName = 'db_dailyshop';
-
-    
 }
 
 

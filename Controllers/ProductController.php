@@ -2,7 +2,7 @@
 
 class ProductController extends BaseController
 {
-    public function index($sort = "default", $show = 12)
+    public function index($sort, $show)
     {
         $viewPath = [
             'Views/frontend/products/product.php',
