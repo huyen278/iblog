@@ -7,4 +7,7 @@ ErrorDocument 404 http://localhost/shoponline/error
 ErrorDocument 500 http://localhost/shoponline/error
 
 RewriteEngine On
-RewriteRule error index.php?controller=error&action=index [L]
+RewriteRule "error" "index.php?controller=error"
+RewriteRule "home" "index.php?controller=home"
+RewriteRule "product" "index.php?controller=product"
+RewriteRule "contact" "index.php?controller=contact" [L]
