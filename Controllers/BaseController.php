@@ -2,19 +2,14 @@
 
 class BaseController
 {
-    const HEADER = 'Views/frontend/header/header.php';
-    const FOOTER = 'Views/frontend/footer/footer.php';
-
-    public function view(array $path = [])
+    public function callModel($model)
     {
-       require BaseController::HEADER;
+        require_once "./models/" . $model . ".php";
+        return new $model;
+    }
 
-       foreach ($path as $val) {
-           require $val;
-       }
-
-       require BaseController::FOOTER;
+    public function callView($view, $data = [])
+    {
+        require_once "./views/layouts/" . $view . ".php";
     }
 }
-
-?>

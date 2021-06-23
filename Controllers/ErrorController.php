@@ -2,13 +2,11 @@
 
 class ErrorController extends BaseController
 {
-    public function index()
+    public function show()
     {
-        $viewPath = [
-            'Views/frontend/other/404.php',
-        ];
-        $this->view($viewPath);
+        http_response_code(404);
+        $this->callView("master1", [
+            "page" => "error"
+        ]);
     }
 }
-
-?>

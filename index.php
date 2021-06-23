@@ -1,13 +1,8 @@
 <?php
 
-require "./Controllers/BaseController.php";
-
-$controllerName = ucfirst(strtolower($_REQUEST['controller']??'Home')).'Controller';
-$actionName = strtolower($_REQUEST['action']??'index');
-
-require "./Controllers/${controllerName}.php";
-
-$controllerObject = new $controllerName;
-$controllerObject->$actionName();
-
-?>
+session_start();
+require_once "./core/app.php";
+require_once "./controllers/BaseController.php";
+require_once "./models/BaseModel.php";
+//header("Content-Security-Policy: default-src 'self'");
+$myApp = new App();
