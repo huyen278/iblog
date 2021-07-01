@@ -4,15 +4,14 @@ $menu = array(
     'Coding',
     'Security',
     'Traveling',
-    'Story',
-    'Login'
+    'Story'
 );
 ?>
 <!--navbar-->
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
     <!--LOGO-->
     <a class="navbar-brand" href="./">
-        <img src="./asset/icon/logo.png" width="30" height="30" alt="">
+        <img src="./assets/icon/logo.png" width="30" height="30" alt="">
         iBlog
     </a>
     <!--NAV-->
@@ -31,6 +30,9 @@ $menu = array(
                 echo '</li>';
             }
             ?>
+        </ul>
+        <ul class="my-2 my-md-0 mr-md-3">
+            <a class="nav-link" href="./Login">Write a blog</a>
         </ul>
         <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search">

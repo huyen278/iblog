@@ -9,7 +9,6 @@ class App
     function __construct()
     {
         $arr = $this->proceedUrl();
-
         //get Controller
         if (isset($arr[0])) {
             if (file_exists("./controllers/" . ucfirst($arr[0]) . "Controller.php")) {
@@ -32,6 +31,7 @@ class App
         }
 
         //get Params
+
         $this->params = $arr ? array_values($arr) : [];
 
         //execute method of object w params

@@ -3,6 +3,10 @@
 class BaseModel
 {
     protected $conMysql;
+    protected $servername = "localhost";
+    protected $username = "root";
+    protected $password = "";
+    protected $dbname = "db_iblog";
 
     function __construct()
     {
@@ -11,13 +15,11 @@ class BaseModel
 
     public function connectMysql()
     {
-        $dbhost = "localhost";
-        $dbuser = "root";
-        $dbpass = "";
-        $dbname = "db_personal_blog";
+        $this->conMysql = new mysqli($this->servername, $this->username, $this->password, $this->dbname);
+    }
 
-        $this->conMysql = mysqli_connect($dbhost, $dbuser, $dbpass);
-        mysqli_select_db($this->conMysql, $dbname);
-        mysqli_query($this->conMysql, "SET NAMES 'utf8'");
+    function __destruct()
+    {
+        $this->conMysql->close();
     }
 }
