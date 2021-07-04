@@ -1,10 +1,10 @@
-ErrorDocument 401 http://localhost/iblog/error
+ErrorDocument 401 http://localhost/error
 
-ErrorDocument 403 http://localhost/iblog/error
+ErrorDocument 403 http://localhost/error
 
-ErrorDocument 404 http://localhost/iblog/error
+ErrorDocument 404 http://localhost/error
 
-ErrorDocument 500 http://localhost/iblog/error
+ErrorDocument 500 http://localhost/error
 
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d

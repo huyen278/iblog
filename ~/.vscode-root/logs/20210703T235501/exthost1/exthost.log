@@ -1,0 +1,1163 @@
+[2021-07-03 23:55:04.503] [exthost] [info] extension host started
+[2021-07-03 23:55:04.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-03 23:55:04.862] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-03 23:55:04.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-07-03 23:55:04.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-07-03 23:55:04.921] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-07-03 23:55:04.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-07-03 23:55:05.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-03 23:55:05.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-03 23:55:05.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-03 23:55:05.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/git/dist/main
+[2021-07-03 23:55:05.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-03 23:55:05.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-07-03 23:55:06.010] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 563
+[2021-07-03 23:55:06.060] [exthost] [info] eager extensions activated
+[2021-07-03 23:55:06.583] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-03 23:55:06.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-03 23:55:06.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-03 23:55:06.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-03 23:55:06.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-03 23:55:06.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-03 23:55:06.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-03 23:55:06.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-03 23:55:06.885] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-07-03 23:55:06.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension
+[2021-07-03 23:55:08.564] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-03 23:55:08.564] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-03 23:56:48.726] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:57:04.773] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:57:15.776] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:57:22.651] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:57:27.743] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:57:34.426] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:58:26.546] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-03 23:58:33.568] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:02:08.447] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:17:29.427] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:17:29.448] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:17:40.530] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:17:40.530] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:17:49.289] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:17:49.290] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:18:16.127] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:18:52.041] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:19:13.514] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:27:09.642] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:27:15.111] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:27:32.996] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:28:03.527] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:28:03.527] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:29:22.414] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:29:46.465] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:29:57.049] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:30:57.355] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:31:49.635] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:31:56.664] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:31:56.665] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:32:04.942] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:32:43.780] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:33:18.944] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:33:24.040] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:34:02.586] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:34:17.479] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:36:05.486] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:36:13.091] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:42:45.505] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:42:50.578] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 00:43:00.428] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 00:43:05.492] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:43:09.534] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:43:09.540] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:43:14.429] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:43:48.326] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:43:54.989] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:44:00.152] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:44:33.575] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:53:21.154] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:53:33.600] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:53:38.670] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:53:43.976] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:54:06.140] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:55:11.271] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:55:35.908] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:55:35.908] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:55:44.638] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 00:55:44.638] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 00:55:55.367] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:56:07.964] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:56:43.238] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:57:02.135] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:57:36.348] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 00:58:39.442] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:00:54.920] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:01:15.361] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:01:26.023] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:01:26.023] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:02:13.652] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:02:13.652] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:02:27.536] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:02:32.602] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:02:37.671] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:05:34.900] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:06:07.283] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:06:39.646] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:06:55.051] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:07:21.346] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:07:33.023] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:08:14.960] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:09:29.502] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:09:56.153] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:18:29.604] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:18:29.609] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:19:04.627] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:19:04.628] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:21:48.518] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:21:55.538] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:22:01.977] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:22:27.904] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:28:19.363] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:28:24.467] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:28:29.555] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:28:45.307] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 01:29:03.278] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:30:39.648] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:30:39.650] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:32:41.682] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:32:41.683] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:33:01.760] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:33:34.885] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:33:43.860] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:34:17.093] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:34:27.611] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:34:38.832] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:34:38.832] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:35:00.960] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:35:23.219] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:35:23.220] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:35:28.383] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:35:28.383] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:35:34.587] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:35:47.740] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:35:48.084] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:35:48.084] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 01:35:52.821] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:36:00.843] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:36:06.024] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:37:15.781] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:37:20.851] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:37:44.549] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:38:10.333] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:38:39.083] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:38:39.393] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:38:39.394] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 01:38:46.690] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:38:57.973] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:39:43.273] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:39:48.952] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:39:48.952] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:40:11.739] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:40:11.739] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:40:23.423] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:40:23.732] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:40:23.732] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 01:40:43.832] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:40:53.605] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:41:19.727] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:41:32.003] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:43:08.649] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:43:19.791] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:44:22.100] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:44:40.534] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:44:47.018] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:45:07.802] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:45:31.990] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:45:37.123] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:45:47.255] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:45:47.273] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:45:49.606] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:45:49.606] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:46:14.885] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 01:46:14.885] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 01:46:55.195] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:48:06.475] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:49:03.623] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:51:29.825] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:52:21.308] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:53:00.147] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:53:09.587] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 01:54:24.483] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:05:42.245] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:06:06.057] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:06:27.191] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:06:41.368] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:06:41.371] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:06:41.982] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:06:41.983] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:08:02.613] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:08:02.613] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:08:03.622] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:08:03.622] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:08:48.511] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:08:55.532] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:08:55.532] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:08:58.131] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:08:58.131] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:06.171] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:06.171] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:10.398] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:10.398] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:11.296] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:11.296] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:15.661] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:15.661] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:21.405] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:21.405] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:21.974] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:21.974] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:24.538] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:24.539] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:25.099] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:25.099] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:26.058] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:26.059] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:28.267] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:28.267] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:09:29.236] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:09:29.237] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:10:31.477] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:10:31.477] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:10:37.116] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:10:37.116] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:11:02.010] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:11:14.854] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:11:24.133] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:11:24.134] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:11:26.541] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:11:26.542] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:11:31.804] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:12:10.707] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:12:19.975] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:22:49.187] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:23:59.736] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:23:59.736] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:24:18.165] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:24:18.166] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:26:37.301] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:26:37.301] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:26:49.081] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 566
+[2021-07-04 10:28:26.021] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:28:26.022] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:28:27.413] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:28:27.413] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:28:28.686] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:28:28.686] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:30:21.776] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:30:54.656] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:31:06.036] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:31:37.517] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:32:02.763] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:32:02.765] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:32:06.234] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 10:32:23.570] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 567
+[2021-07-04 10:32:37.028] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:32:53.391] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:33:04.657] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:33:58.353] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:34:20.485] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:34:50.825] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:35:24.827] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:35:37.000] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:35:37.000] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:35:45.850] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:35:45.850] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:35:48.334] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:35:48.334] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:35:54.027] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:35:54.027] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:36:01.983] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:36:19.539] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:36:19.539] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:36:21.439] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:36:21.440] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:36:24.165] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:36:24.165] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:36:49.496] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:37:13.039] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:38:28.807] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:38:37.481] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:38:50.481] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:38:50.482] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:38:55.199] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:38:55.199] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:38:55.334] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:38:56.882] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:38:56.882] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:39:10.960] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:39:12.903] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:39:12.903] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:39:30.436] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:39:42.780] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:39:58.061] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:40:18.900] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:40:46.662] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:41:15.502] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:41:50.361] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:42:22.878] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:42:22.878] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:42:47.934] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:44:25.652] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:44:40.672] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:44:54.249] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:45:20.315] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:45:27.556] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 10:45:45.298] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:45:45.303] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:45:46.870] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:45:46.870] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:45:48.751] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:45:48.751] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:45:54.612] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:45:54.612] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:45:56.327] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:45:56.327] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:45:57.788] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:45:57.788] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:46:05.383] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:46:05.383] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:46:07.443] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:46:07.444] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:46:20.605] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:46:20.605] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:46:20.871] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:46:26.495] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:46:32.693] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:46:54.660] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:47:33.900] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:47:33.900] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:47:54.315] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:48:24.291] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:48:35.028] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:49:02.704] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:49:15.935] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:49:54.150] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:50:44.743] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:50:44.743] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:50:59.332] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:50:59.332] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:53:30.420] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:54:00.980] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:54:06.058] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:54:25.531] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:54:56.249] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 10:54:56.254] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 10:55:37.050] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:59:35.190] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 10:59:46.662] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:02:19.874] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:03:18.642] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:03:34.824] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:04:59.641] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:05:14.818] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:05:21.056] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:08:27.551] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:08:56.958] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:16:26.515] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:16:50.538] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:17:06.102] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:17:12.114] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:17:27.972] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:19:47.815] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:20:28.531] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:21:18.093] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 11:21:18.102] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:88457
+[2021-07-04 11:22:01.873] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:22:52.919] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:23:01.245] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:23:15.860] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:23:29.148] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:24:09.119] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 11:24:21.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 11:24:59.476] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:27:29.239] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:27:57.113] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:28:39.018] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:29:03.063] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:29:25.781] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-07-04 11:29:25.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-07-04 11:30:02.015] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:30:57.718] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:31:32.946] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:40:52.705] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:40:58.002] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:41:03.521] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:41:03.969] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 11:41:03.971] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 11:44:44.064] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:45:00.363] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:46:10.122] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:46:15.207] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:46:24.172] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:46:29.273] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:46:41.041] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:49:52.881] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:50:40.130] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 11:50:40.131] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 11:50:45.760] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 11:50:45.760] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 11:50:49.166] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 11:50:49.167] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 11:52:52.484] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:53:24.686] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:53:31.461] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:56:27.101] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:56:32.200] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:56:43.240] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:57:56.884] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:58:06.896] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:59:25.706] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:59:34.798] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 11:59:59.937] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:00:05.017] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:00:15.661] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:00:24.515] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:00:29.610] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:01:30.510] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:01:37.021] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:03:17.670] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:03:26.161] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:04:13.256] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:04:18.413] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 12:04:24.995] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 12:04:36.171] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:08:15.756] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:19:56.772] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:27:38.055] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:29:58.396] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:30:07.923] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 12:30:08.184] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:87663
+	at async F.resolveCompletionItem (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:172030)
+[2021-07-04 12:31:08.815] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:31:30.507] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:31:48.832] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 12:32:05.390] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:20:44.188] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:20:44.869] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 13:20:44.870] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:88457
+[2021-07-04 13:20:54.382] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:21:23.075] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:22:12.395] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:24:02.432] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:24:50.075] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:24:55.139] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:25:06.871] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:25:25.824] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:25:39.592] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:26:29.157] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:31:45.256] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 13:32:04.919] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 13:32:15.624] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 13:32:15.630] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 13:32:31.617] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 13:33:36.856] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 13:33:36.857] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 13:33:41.358] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 13:33:46.528] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:35:01.728] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:35:12.334] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:35:17.435] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:35:26.785] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:35:38.584] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:37:16.336] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:37:26.987] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 13:37:27.002] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 13:37:46.119] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:38:10.350] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:38:15.427] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:38:27.686] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:38:49.998] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 13:38:49.998] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 13:38:50.218] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:39:07.086] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:39:42.924] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:40:09.421] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 13:40:09.421] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 13:40:28.077] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:40:51.006] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:41:13.780] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:41:41.353] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:41:51.501] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:42:26.261] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 13:42:57.478] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:50:18.348] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:50:27.024] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:50:33.067] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:50:39.223] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:51:05.883] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:53:26.290] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:55:24.696] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:55:34.170] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:56:24.964] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:56:57.614] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:57:18.693] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 16:57:18.718] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 16:58:07.688] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:58:47.739] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:58:48.166] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 16:58:48.166] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 16:59:03.447] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:59:03.799] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 16:59:03.800] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 16:59:19.041] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:59:28.372] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:59:39.230] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 16:59:54.761] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:00:01.305] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:00:01.634] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 17:00:01.634] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 17:00:44.313] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:00:55.727] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:01:41.442] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:02:42.324] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:03:53.578] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:04:09.242] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:04:40.591] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:05:06.276] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:05:25.190] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:05:38.380] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:06:24.264] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:06:48.808] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:07:03.507] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:07:39.555] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:08:02.569] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:09:59.835] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:10:27.767] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:10:40.947] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:10:50.889] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:13:28.482] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:14:22.082] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:14:52.830] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:15:03.610] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:15:24.676] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:15:29.757] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:15:34.827] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:15:39.900] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 17:16:28.095] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 17:16:36.868] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:17:09.396] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:17:37.549] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:18:44.525] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:18:44.883] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 17:18:44.886] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 17:20:02.981] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:20:08.111] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:22:42.799] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:25:06.744] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:25:11.824] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:25:29.955] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:26:06.685] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 17:26:13.977] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:25:43.628] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:25:43.632] [exthost] [error] TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 18:27:23.594] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:27:52.838] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:27:57.932] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:28:08.835] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:28:23.259] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:28:28.120] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:28:28.120] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:28:52.747] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:29:45.166] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:29:55.991] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:29:55.991] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:30:04.144] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:30:04.144] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:30:04.717] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:30:11.030] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:30:53.266] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:31:44.418] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:31:49.753] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:31:57.530] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:31:57.533] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:32:21.498] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:32:33.245] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:32:33.245] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:32:48.993] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:32:49.549] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:32:49.549] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:88457
+[2021-07-04 18:32:49.550] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:32:49.551] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:88457
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-07-04 18:33:41.389] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:34:05.556] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:34:21.617] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:34:40.426] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:35:09.158] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:35:32.191] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:35:32.191] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:35:35.641] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:35:35.641] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:36:13.109] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:36:18.180] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:36:36.262] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:36:42.506] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:37:20.635] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:37:35.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:38:58.798] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:39:27.993] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:39:36.296] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:39:54.862] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:40:21.425] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:40:21.425] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:40:27.286] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:40:41.274] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:41:13.630] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:41:13.630] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:41:53.077] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:42:27.295] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:27.295] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:27.999] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:28.000] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:29.007] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:29.007] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:29.655] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:29.655] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:30.986] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:30.986] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:33.637] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:33.637] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:38.755] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:38.755] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:42:51.663] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:42:51.663] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:43:36.782] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:43:36.782] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:43:38.300] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:43:38.301] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:44:10.291] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 18:46:38.424] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 18:50:13.866] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:50:23.339] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:52:44.340] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:52:52.728] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:52:57.834] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:53:04.369] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:53:16.012] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:54:06.607] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:54:11.705] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:54:31.583] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:55:27.394] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:55:36.137] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 18:55:36.147] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 18:55:42.488] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:56:26.586] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:57:11.485] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 18:57:43.263] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:00:56.689] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:01:31.372] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:01:31.376] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:01:51.039] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:02:48.214] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:03:30.311] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:03:40.516] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:03:47.763] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:04:11.907] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:04:23.083] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:04:23.083] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:04:24.142] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:04:24.142] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:04:37.195] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:11:42.874] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:18:14.398] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:20:45.672] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:23:33.069] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:23:38.145] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:23:50.178] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:24:19.686] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:24:24.755] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:24:51.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:25:11.088] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:25:30.774] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:25:30.783] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:25:36.815] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:25:36.815] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:25:37.769] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:25:37.769] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:25:38.794] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:25:38.794] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:27:34.491] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:27:43.646] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:28:49.633] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:30:31.661] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 19:31:01.535] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 19:31:08.307] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:31:14.841] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:31:39.838] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:32:21.954] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:32:27.039] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:32:41.337] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:32:54.969] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:32:54.982] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:32:56.646] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:32:56.646] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:33:16.516] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:33:23.354] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:33:35.810] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:34:30.370] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:35:25.022] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:35:44.754] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:36:09.229] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:36:16.212] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:36:22.452] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:37:09.112] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:37:35.269] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:37:45.043] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 568
+[2021-07-04 19:40:32.540] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:40:32.541] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:40:43.676] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 19:40:59.536] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:40:59.536] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:41:03.386] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 570
+[2021-07-04 19:42:10.161] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 19:42:15.258] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 19:42:30.092] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 569
+[2021-07-04 19:50:49.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-07-04 19:50:49.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-07-04 19:50:54.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-07-04 19:50:54.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-04 19:50:59.724] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:51:17.562] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:51:25.474] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:51:25.476] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 19:51:28.966] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:51:34.950] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:51:42.363] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:51:47.665] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:54:10.885] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:54:16.661] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:55:48.169] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 19:59:52.235] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:59:52.238] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:87265
+	at async F.provideCompletionItems (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:171296)
+[2021-07-04 19:59:52.239] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 19:59:52.239] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+	at runMicrotasks (<anonymous>)
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-07-04 19:59:57.011] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 20:00:52.962] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 20:00:58.048] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 20:01:10.206] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 20:01:34.795] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 571
+[2021-07-04 20:03:19.926] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-04 20:03:19.927] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128391)
+	at w.handleFailedRequest (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128242)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:93115
+[2021-07-04 20:03:31.810] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 572
+[2021-07-04 20:03:36.884] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 572
+[2021-07-04 20:07:53.507] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 594
+[2021-07-04 20:07:54.305] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-04 20:07:54.353] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at $e (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:6804)
+	at Object.dispose (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:77:13664)
+	at Object.I [as dispose] (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:14:4668)
+	at m._deactivate (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:11386)
+	at /snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9976
+	at Array.map (<anonymous>)
+	at m.deactivateAll (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9964)
+	at E.terminate (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:728)
+	at u (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:31696)
+	at Socket.<anonymous> (/snap/code/67/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:29491)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-07-04 20:07:55.356] [exthost] [info] exiting with code 0

@@ -9,7 +9,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  padding-top: 5rem;
+  padding-top: 4rem;
   margin-bottom: 6px;
 }
 
@@ -21,7 +21,10 @@ body {
   height: 1px;
   background: black;
 }
-
+.thumb {
+  height: 400px;
+  width: 900px;
+}
 .form-signin {
   width: 100%;
   max-width: 330px;

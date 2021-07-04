@@ -1,0 +1,27 @@
+[2021-07-04 01:35:48.113] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 01:38:39.405] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 01:40:23.752] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 11:41:04.029] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 16:58:48.220] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 16:59:03.812] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 17:00:01.647] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 17:18:44.910] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
+[2021-07-04 18:25:43.645] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
+	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
