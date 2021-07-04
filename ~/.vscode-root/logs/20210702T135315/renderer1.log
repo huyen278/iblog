@@ -1,3 +1,0 @@
-[2021-07-03 09:22:52.598] [renderer1] [error] Cannot read property 'kind' of undefined: TypeError: Cannot read property 'kind' of undefined
-	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:165849
-	at asHover (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:166062)
