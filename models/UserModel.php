@@ -10,7 +10,7 @@ class UserModel extends BaseModel
         $stmt->execute();
         $result = $stmt->get_result();
         if ($row = $result->fetch_assoc()) {
-            if ($row['username'] === $username && hash_equals($row['password_hashed'], $password)) {
+            if ($row['username'] === $username && password_verify($password, $row['password_hashed'])) {
                 $_SESSION['loggedin'] = TRUE;
                 $_SESSION['id'] = $row['id'];
                 $_SESSION['name'] = $row['username'];
@@ -30,6 +30,7 @@ class UserModel extends BaseModel
         $stmt->execute();
         $result = $stmt->get_result();
         if ($row = $result->fetch_assoc()) {
+            $stmt->close();
             return true;
         }
         $stmt->close();

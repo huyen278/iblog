@@ -20,6 +20,7 @@
     }
     ?>
 
+    <script src="/assets/js/script.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/jquery.slim.min.js"></script>

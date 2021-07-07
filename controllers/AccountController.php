@@ -12,23 +12,29 @@ class AccountController extends BaseController
 
     public function login()
     {
-        $this->token = $this->mdw->generateCsrf();
+        //CSRF token
+        if (!isset($_SESSION['token'])) {
+            $this->token = $this->mdw->generateCsrf();
+        }
+
+        if (isset($_POST['token'])) {
+            if (!hash_equals($_POST['token'], $_SESSION['token'])) {
+                unset($_SESSION["token"]);
+                header("Location: /error");
+                return;
+            }
+        }
 
         if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
             header("Location: /dashboard");
         }
 
-        if (isset($_POST['token'])) {
-            if (!hash_equals($_POST['token'], $_SESSION['token'])) {
-                header("Location: /error");
-            }
-        }
-
         if (isset($_POST['username']) && isset($_POST['password'])) {
             $userModel = $this->callModel("UserModel");
-            $rs = $userModel->findUserPassword($_POST['username'], md5($_POST['password']));
+            $rs = $userModel->findUserPassword($_POST['username'], $_POST['password']);
             if ($rs) {
                 header("Location: /dashboard");
+                return;
             }
         }
 
@@ -39,14 +45,29 @@ class AccountController extends BaseController
 
     public function register()
     {
+        //CSRF token
+        if (!isset($_SESSION['token'])) {
+            $this->token = $this->mdw->generateCsrf();
+        }
+
+        if (isset($_POST['token'])) {
+            if (!hash_equals($_POST['token'], $_SESSION['token'])) {
+                unset($_SESSION["token"]);
+                header("Location: /error");
+                return;
+            }
+        }
+
         if (isset($_POST['username']) && isset($_POST['password']) && isset($_POST['repassword'])) {
             if ($_POST['username'] != "" && $_POST['password'] != "" && $_POST['repassword'] != "") {
                 if ($_POST['password'] === $_POST['repassword']) {
+                    $username = htmlspecialchars($_POST['username']);
                     $userModel = $this->callModel("UserModel");
-                    $rs = $userModel->findUser($_POST['username']);
+                    $rs = $userModel->findUser($username);
                     if (!$rs) {
-                        $userModel->createUser($_POST['username'], md5($_POST['password']));
+                        $userModel->createUser($username, password_hash($_POST['password'], PASSWORD_BCRYPT));
                         header("Location: /account/login");
+                        return;
                     }
                 }
             }
@@ -58,7 +79,10 @@ class AccountController extends BaseController
 
     public function logout()
     {
-        session_destroy();
+        unset($_SESSION['loggedin']);
+        unset($_SESSION['id']);
+        unset($_SESSION['name']);
+        unset($_SESSION['role']);
         header("Location: /account/login");
     }
 }

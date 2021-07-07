@@ -8,14 +8,15 @@ class CategoryController extends BaseController
         $posts = $PostModel->listPostCate($cat);
         if ($cat == null) {
             header("Location: /error");
-        } else {
-            $this->callView("master1", [
-                "page" => "category",
-                "data" => [
-                    "posts" => $posts
-                ]
-            ]);
+            return;
         }
+
+        $this->callView("master1", [
+            "page" => "category",
+            "data" => [
+                "posts" => $posts
+            ]
+        ]);
     }
 
     public function getCategories()

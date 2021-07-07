@@ -7,6 +7,7 @@
     <input type="password" id="password" name="password" class="form-control" placeholder="Password" required>
     <label for="repassword" class="sr-only">Re-Password</label>
     <input type="password" id="repassword" name="repassword" class="form-control" placeholder="Re-Password" required>
+    <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>" />
     <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
     <a class="btn btn-lg btn-light btn-block" href="/account/login">Back to Login</a>
     <p class="mt-5 mb-3 text-muted">&copy; 18520365 - NT213 - HKII - 2021</p>
