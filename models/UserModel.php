@@ -4,7 +4,9 @@ class UserModel extends BaseModel
 {
     public function findUserPassword($username, $password)
     {
-        $stmt = $this->conMysql->prepare("SELECT id, username, password_hashed, `role` FROM tbl_users WHERE username = ?");
+        $stmt = $this->conMysql->prepare("SELECT id, username, password_hashed, `role` 
+        FROM tbl_users 
+        WHERE username = ?");
         $stmt->bind_param("s", $username);
 
         $stmt->execute();
@@ -37,12 +39,21 @@ class UserModel extends BaseModel
         return false;
     }
 
-    public function createUser($username, $password)
+    public function createUser($username, $password, $date)
     {
-        $date = date("Y-m-d H:i:s");
         $stmt = $this->conMysql->prepare("INSERT INTO tbl_users (username, password_hashed, `role`, create_at)
         VALUES (?, ?, 'user', ?)");
         $stmt->bind_param("sss", $username, $password, $date);
+        $stmt->execute();
+        $stmt->close();
+    }
+
+    public function updateUser($id, $username, $password, $date)
+    {
+        $stmt = $this->conMysql->prepare("UPDATE `db_iblog`.`tbl_users` 
+        SET `username` = ?, `password_hashed` = ?, `role` = 'user', `update_at` = ?
+        WHERE (`id` = ?);");
+        $stmt->bind_param("ssss", $username, $password, $date, $id);
         $stmt->execute();
         $stmt->close();
     }

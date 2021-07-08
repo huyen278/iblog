@@ -2,23 +2,57 @@
 
 class PostModel extends BaseModel
 {
+    public function createComment($id_post, $comment)
+    {
+        $stmt = $this->conMysql->prepare("INSERT INTO tbl_comments (id_post, comment) 
+        VALUES (?, ?)");
+        $stmt->bind_param('ss', $id_post, $comment);
+        $stmt->execute();
+        $stmt->close();
+    }
+
     public function createPost($id_author, $id_cat, $title, $slug, $brief, $views, $img, $content, $date)
     {
         $stmt = $this->conMysql->prepare("INSERT INTO `db_iblog`.`tbl_posts` (`id_author`, `id_category`, `title`, `slug`, `brief`, `views`, `img`, `content`, `create_at`) 
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?);");
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)");
         $stmt->bind_param("sssssssss", $id_author, $id_cat, $title, $slug, $brief, $views, $img, $content, $date);
+        $stmt->execute();
+        $stmt->close();
+    }
+
+    public function updatePost($id, $id_cat, $title, $slug, $brief, $img, $content, $date)
+    {
+        if ($id != 1) {
+            $stmt = $this->conMysql->prepare("UPDATE tbl_posts
+            SET id_category = ?, `title` = ?, `brief` = ?, img = ?, `content` = ?, update_at = ?
+            WHERE id_author = ? and slug = ?");
+            $stmt->bind_param("ssssssss", $id_cat, $title, $brief, $img, $content, $date, $id, $slug);
+        } else {
+            $stmt = $this->conMysql->prepare("UPDATE tbl_posts
+            SET id_category = ?, `title` = ?, `brief` = ?, img = ?, `content` = ?, update_at = ?
+            WHERE slug = ?");
+            $stmt->bind_param("sssssss", $id_cat, $title, $brief, $img, $content, $date, $slug);
+        }
         $stmt->execute();
         $stmt->close();
     }
 
     public function isOwner($id_author, $slug)
     {
-        $stmt = $this->conMysql->prepare("SELECT * 
-        from tbl_posts
-        where id_author = ?
-        and slug = ?
-        and delete_at is null");
-        $stmt->bind_param('ss', $id_author, $slug);
+        if ($id_author != 1) {
+            $stmt = $this->conMysql->prepare("SELECT * 
+            from tbl_posts
+            where id_author = ?
+            and slug = ?
+            and delete_at is null");
+            $stmt->bind_param('ss', $id_author, $slug);
+        } else {
+            $stmt = $this->conMysql->prepare("SELECT * 
+            from tbl_posts
+            where  slug = ?
+            and delete_at is null");
+            $stmt->bind_param('s', $slug);
+        }
         $stmt->execute();
         $result = $stmt->get_result();
         if ($row = $result->fetch_assoc()) {
@@ -172,6 +206,28 @@ class PostModel extends BaseModel
         return $arr[] = [];
     }
 
+    public function listComment($id_post)
+    {
+        $stmt = $this->conMysql->prepare("SELECT comment
+        from tbl_comments 
+        where id_post = ?
+        order by id DESC");
+        $stmt->bind_param('s', $id_post);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        if ($result->num_rows) {
+            while ($row = $result->fetch_assoc()) {
+                $arr[] = [
+                    'comment' => $row['comment']
+                ];
+            }
+            $stmt->close();
+            return $arr;
+        }
+        $stmt->close();
+        return $arr[] = [];
+    }
+
     public function listImage($id)
     {
         if ($id != 1) {
@@ -218,6 +274,20 @@ class PostModel extends BaseModel
         return '0';
     }
 
+    public function findIdPost($slug)
+    {
+        $stmt = $this->conMysql->prepare("SELECT `id` FROM tbl_posts where `slug` = ?");
+        $stmt->bind_param('s', $slug);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        if ($row = $result->fetch_assoc()) {
+            $stmt->close();
+            return $row['id'];
+        }
+        $stmt->close();
+        return '0';
+    }
+
     public function findSlug($slug)
     {
         $stmt = $this->conMysql->prepare("SELECT `slug` FROM tbl_posts where slug = ?");
@@ -234,7 +304,9 @@ class PostModel extends BaseModel
 
     public function countSlug($slug)
     {
-        $stmt = $this->conMysql->prepare("SELECT count(slug) as c FROM tbl_posts where slug = ?");
+        $stmt = $this->conMysql->prepare("SELECT count(slug) as c 
+        FROM tbl_posts 
+        where slug = ?");
         $stmt->bind_param("s", $slug);
         $stmt->execute();
         $result = $stmt->get_result();

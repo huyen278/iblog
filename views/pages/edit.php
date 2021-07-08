@@ -22,7 +22,7 @@
     </div>
     <div class="form-group">
         <label for="brief">Brief</label>
-        <textarea class="form-control" id="brief" name="brief" rows="3" placeholder="Brief"><?php echo $data['data']['data']['brief']; ?></textarea>
+        <input class="form-control" id="brief" name="brief" placeholder="Brief" value="<?php echo $data['data']['data']['brief']; ?>">
     </div>
 
     <div class="form-group">
@@ -35,5 +35,6 @@
         <textarea class="form-control" id="content" name="content" rows="10" placeholder="Content" required><?php echo $data['data']['data']['content']; ?></textarea>
     </div>
     <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>" />
+    <input type="hidden" name="slug" value="<?php echo $data['data']['slug']; ?>" />
     <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Update</button>
 </form>

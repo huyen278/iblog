@@ -20,6 +20,25 @@
                     <?php echo "haha\r\n" . $data['data']['data']['content']; ?>
                 </section>
             </article>
+            <!--Post comment-->
+            <form action="/post/comment" method="POST">
+                <div class="form-group">
+                    <textarea class="form-control" id="comment" name="comment" rows="3" placeholder="Place your comment" required></textarea>
+                </div>
+                <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>" />
+                <input type="hidden" name="slug" value="<?php echo $data['data']['slug']; ?>" />
+                <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Comment</button>
+            </form>
+            <div class="container">
+                <?php
+                foreach ($data['data']['comment'] as $key => $value) {
+                    echo '<hr class="mt-2 mb-5">';
+                    echo '<div class="row">';
+                    echo '<p>' . $value['comment'] . '</p>';
+                    echo '</div>';
+                }
+                ?>
+            </div>
         </div>
     </div>
 </div>

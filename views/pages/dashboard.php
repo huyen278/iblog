@@ -33,8 +33,8 @@
                     <ul>
                         <li>U can wite blog by html with supported by boostrap</li>
                         <li>Allow tag <code>div,h,p,a,ul,li,br,img and some format text</code></li>
-                        <li>Upload image to gallery to get/use <code>src img</code> and fill name image of thumbnail</li>
-                        <li><code>src img</code> You can use /assets/public_img/&lt;name_img.png/jpg/jpeg/gif&gt; </li>
+                        <li>Upload image to gallery to use <code>name image</code> for thumbnail</li>
+                        <li><code>src of img tag</code> You can use "/assets/public_img/&lt;name_image.png/jpg/jpeg/gif&gt;" </li>
                     </ul>
                     <form action="/dashboard/create" method="POST">
                         <div class="form-group">
@@ -52,7 +52,7 @@
                         </div>
                         <div class="form-group">
                             <label for="brief">Brief</label>
-                            <textarea class="form-control" id="brief" name="brief" rows="3" placeholder="Brief"></textarea>
+                            <input class="form-control" id="brief" name="brief" placeholder="Brief" value="">
                         </div>
 
                         <div class="form-group">
@@ -90,7 +90,7 @@
                 <div class="tab-pane" id="gallery" role="tabpanel">
                     <form action="/dashboard/upload" method="post" enctype="multipart/form-data">
                         Select image to upload:
-                        <input type="file" name="fileToUpload" id="fileToUpload">
+                        <input type="file" name="fileToUpload" id="fileToUpload" required>
                         <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>" />
                         <input type="submit" value="Upload Image" name="submit">
                     </form>
@@ -113,7 +113,19 @@
                     </div>
                 </div>
                 <!-- Profile tab -->
-                <div class="tab-pane" id="profile" role="tabpanel">profile</div>
+                <div class="tab-pane" id="profile" role="tabpanel">
+                    <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Edit Profile</h1>
+                    <form class="form-signin" action="/dashboard/profile" method="POST">
+                        <label for="username" class="sr-only">Username</label>
+                        <input type="text" id="username" name="username" class="form-control" placeholder="Username" required autofocus>
+                        <label for="password" class="sr-only">Password</label>
+                        <input type="password" id="password" name="password" class="form-control" placeholder="Password" required>
+                        <label for="repassword" class="sr-only">Re-Password</label>
+                        <input type="password" id="repassword" name="repassword" class="form-control" placeholder="Re-Password" required>
+                        <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>" />
+                        <button class="btn btn-lg btn-primary btn-block" type="submit">Update</button>
+                    </form>
+                </div>
         </main>
     </div>
 </div>

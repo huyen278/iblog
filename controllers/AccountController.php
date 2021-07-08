@@ -65,7 +65,8 @@ class AccountController extends BaseController
                     $userModel = $this->callModel("UserModel");
                     $rs = $userModel->findUser($username);
                     if (!$rs) {
-                        $userModel->createUser($username, password_hash($_POST['password'], PASSWORD_BCRYPT));
+                        $date = date("Y-m-d H:i:s");
+                        $userModel->createUser($username, password_hash($_POST['password'], PASSWORD_BCRYPT), $date);
                         header("Location: /account/login");
                         return;
                     }
