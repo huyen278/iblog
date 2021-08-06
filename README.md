@@ -1,6 +1,6 @@
 # iblog
 
-> (Project for the subject of Web and Application Security)
+> (Project for the subject of Web and Application Security).
 > MVC + PHP + LAMP
 
 Functions:
