@@ -1,7 +1,8 @@
 # iblog
 
 > (Project for the subject of Web and Application Security).
-> MVC + PHP + LAMP
+>
+>  MVC + PHP + LAMP
 
 Functions:
 - Login/Logout/Register
